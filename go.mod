@@ -1,4 +1,4 @@
-module go-utils
+module github.com/movxx/go-utils
 
 go 1.20
 
